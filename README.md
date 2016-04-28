@@ -25,3 +25,7 @@ Should run without errors on current versions of Firefox, Chrome and Safari, plu
 ###Mockup
 
 ![alt text](http://i.imgur.com/quhQlBb.jpg?1 "Image 01")
+
+![alt text](http://i.imgur.com/2bWCyip.jpg "Image 01")
+
+![alt text](http://i.imgur.com/m8sQjFq.jpg "Image 01")
