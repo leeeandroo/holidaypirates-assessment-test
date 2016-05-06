@@ -1,0 +1,1 @@
+export {FakehotelReviewComponent} from './fakehotel-review.component';

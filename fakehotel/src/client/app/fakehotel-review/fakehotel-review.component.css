@@ -1,0 +1,26 @@
+ul {
+	padding: 0;
+}
+
+ul li {
+	list-style: none;
+	padding: 10px 0;
+	border-bottom: 1px solid #cecece;
+	background-color: #666666;
+
+	color:#ffffff;
+
+
+
+}
+
+.hotel-review-signal {
+  text-align: center;
+}
+
+.hotel-review-signal span {
+	font-size:42px;
+	margin: 20px 0 0 0;
+	display: block;
+	
+}

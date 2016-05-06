@@ -1,0 +1,16 @@
+<ul>
+	<li *ngFor="#review of reviews">
+		<div class="row">
+			<div class="col-xs-12 col-md-2 hotel-review-signal">
+				<span *ngIf="review.positive" class="glyphicon glyphicon-plus-sign"></span>
+				<span *ngIf="!review.positive" class="glyphicon glyphicon-minus-sign"></span>
+			</div>
+			
+			<div class="col-xs-12 col-md-10">
+				<h3>{{ review.name }}</h3>
+				<p>{{ review.comment }}</p>
+			</div>
+		</div>
+	
+	</li>
+</ul>
