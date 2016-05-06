@@ -1,0 +1,918 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"hotel",
+				"hotel_id"
+			],
+			[
+				"date",
+				"date_end"
+			],
+			[
+				"count",
+				"country"
+			],
+			[
+				"fa",
+				"Fakehotel"
+			],
+			[
+				"fake",
+				"fakehotelService"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"Car",
+				"CarOptionals"
+			],
+			[
+				"Man",
+				"ManyToManyField"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"pagin",
+				"pagination-item"
+			],
+			[
+				"curr",
+				"currentElement"
+			],
+			[
+				"get",
+				"getPokemonInfo"
+			],
+			[
+				"dataser",
+				"dataservice"
+			],
+			[
+				"Pok",
+				"PokemonService"
+			],
+			[
+				"national",
+				"national_id"
+			],
+			[
+				"defe",
+				"deferred"
+			],
+			[
+				"pr",
+				"promise"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"be",
+				"beforeEach"
+			],
+			[
+				"ca",
+				"cachedIds"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"der",
+				"defer"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"poke",
+				"pokedex"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"getM",
+				"getMockPokemon"
+			],
+			[
+				"color-dark",
+				"color-darkgray"
+			],
+			[
+				"border",
+				"border-radius-bottom-right"
+			],
+			[
+				"prev",
+				"prevIndex"
+			],
+			[
+				"nex",
+				"nextIndex"
+			],
+			[
+				"color-",
+				"color-darkblue"
+			],
+			[
+				"color-b",
+				"color-blue"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"color-w",
+				"color-white"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"data",
+				"dataservice"
+			],
+			[
+				"colo",
+				"color-white"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"getMo",
+				"getMockPokemons"
+			],
+			[
+				"color",
+				"color-darkblue"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font-si",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"id",
+				"_id"
+			],
+			[
+				"Ro",
+				"RoomController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fakehotel/src/client/app/fakehotel.component.ts",
+			"settings":
+			{
+				"buffer_size": 1743,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel.component.html",
+			"settings":
+			{
+				"buffer_size": 2038,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel.service.ts",
+			"settings":
+			{
+				"buffer_size": 2183,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel.component.css",
+			"settings":
+			{
+				"buffer_size": 693,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel-review/fakehotel-review.component.ts",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel-review/fakehotel-review.component.html",
+			"settings":
+			{
+				"buffer_size": 424,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel-review/fakehotel-review.component.css",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel.ts",
+			"settings":
+			{
+				"buffer_size": 476,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel.component.spec.ts",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fakehotel/src/client/app/fakehotel.service.spec.ts",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/app/fakehotel.ts",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/index.html",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/main.ts",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/app/fakehotel-review/fakehotel-review.ts",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/app/fakehotel-review/fakehotel-review.component.css",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/app/review.directive.ts",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/app/fakehotel-list/fakehotel-list.component.ts",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/app/fakehotel-list/fakehotel-list.component.html",
+		"/D/Jobs/health-4-pet/src/health4pet/templates/base.html",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/app/fakehotel.component.css",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/src/client/system-config.ts",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/package.json",
+		"/D/Jobs/holidaypirates-assessment-test/fakehotel/karma.conf.js",
+		"/D/Jobs/trustu/landing-pages/util/css/unsemantic-grid.css",
+		"/D/Jobs/trustu/landing-pages/util/css/screen.css",
+		"/D/Jobs/trustu/landing-pages/emocional.html",
+		"/D/Jobs/trustu/landing-pages/util/js/domready.js",
+		"/C/Users/Leandro/Desktop/urls.py",
+		"/D/Jobs/trustu/landing-pages/didatica.html",
+		"/D/Jobs/grupo-nps/src/gruponps/question/models.py",
+		"/D/Jobs/grupo-nps/src/gruponps/core/models.py",
+		"/C/Users/Leandro/Desktop/views.py",
+		"/D/Jobs/suapp/api/src/core/admin.py",
+		"/D/Jobs/suapp/api/src/core/models.py",
+		"/D/Jobs/suapp/api/src/swapp/settings.py",
+		"/D/Jobs/suapp/api/src/core/migrations/0004_auto_20160116_1305.py",
+		"/D/Jobs/suapp/api/src/core/migrations/0004_auto_20160116_1259.py",
+		"/C/Users/Leandro/Desktop/gruponps-0.1/gruponps-0.1/core/models.py",
+		"/C/Users/Leandro/Desktop/gruponps-0.1/gruponps-0.1/build/lib/core/models.py",
+		"/D/Jobs/grupo-nps/src/gruponps/core/views.py",
+		"/C/Users/Leandro/Desktop/views.py.old",
+		"/D/Jobs/health-4-pet/src/health4pet/static/stylesheets/theme.css",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/index.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/styles/unsemantic-grid-responsive.css",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/layout/ht-top-nav.html",
+		"/D/Jobs/desafio-egenius/client/app/chat/chat.controller.spec.js",
+		"/D/Jobs/desafio-egenius/client/app/room/room.controller.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/core/dataservice.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/specs.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.controller.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokemon/pokemon.service.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokemon/pokemon.controller.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex-item.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/test-helpers/dataservice.mock.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.controller.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/core/dataservice.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokemon/pokemon.route.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokemon/pokemon.route.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokemon/pokemon.service.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/test-helpers/mock-data.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokemon/pokemon.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.directive.spec.js",
+		"/D/Jobs/teste/src/client/app/layout/sidebar.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.directive.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/app.module.js",
+		"/D/Jobs/teste/src/client/app/layout/ht-sidebar.directive.spec.js",
+		"/D/Jobs/teste/src/client/app/layout/ht-top-nav.html",
+		"/D/Jobs/teste/src/client/app/dashboard/dashboard.html",
+		"/D/Jobs/teste/src/client/app/layout/ht-top-nav.directive.js",
+		"/D/Jobs/teste/src/client/app/dashboard/dashboard.controller.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokemon/pokemon.controller.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/styles/styles.less",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/admin/admin.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/dashboard/dashboard.module.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.module.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokemon/pokemon.module.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/admin/admin.module.js",
+		"/D/Jobs/health-4-pet/src/health4pet/static/stylesheets/theme.less",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/layout/ht-top-nav.directive.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.filter.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.filter.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/layout/shell.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/core/404.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.route.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/dashboard/dashboard.route.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/dashboard/dashboard.controller.spec.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/dashboard/dashboard.route.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/pokedex/pokedex.route.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/core/core.route.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/layout/sidebar.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/layout/sidebar.controller.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/layout/shell.controller.js",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/dashboard/dashboard.html",
+		"/D/Jobs/leeeandroo_fe_001/project/src/client/app/core/config.js",
+		"/D/Jobs/leeeandroo_fe_001/project/bower.json",
+		"/D/Jobs/desafio-egenius/client/app/chat/chat.controller.js",
+		"/D/Jobs/desafio-egenius/client/app/room/rooms.jade",
+		"/D/Jobs/desafio-egenius/package.json",
+		"/D/Jobs/desafio-egenius/client/components/ui-router/ui-router.mock.js",
+		"/D/Jobs/desafio-egenius/client/app/room/room.controller.js",
+		"/D/Jobs/desafio-egenius/client/app/room/room.js",
+		"/D/Jobs/desafio-egenius/server/api/room/room.controller.spec.js",
+		"/D/Jobs/amil-mail-queue/client/app/main/main.controller.spec.js",
+		"/D/Jobs/desafio-egenius/client/app/room/room.jade",
+		"/D/Jobs/desafio-egenius/client/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js",
+		"/D/Jobs/desafio-egenius/client/app/main/main.controller.js",
+		"/D/Jobs/desafio-egenius/client/app/main/main.controller.spec.js",
+		"/D/Jobs/desafio-egenius/client/index.html",
+		"/D/Jobs/desafio-egenius/client/app/app.less",
+		"/D/Jobs/desafio-egenius/client/app/main/main.less",
+		"/D/Jobs/desafio-egenius/server/api/thing/index.js",
+		"/D/Jobs/desafio-egenius/karma.conf.js",
+		"/D/Jobs/desafio-egenius/client/app/main/main.jade",
+		"/D/Jobs/desafio-egenius/server/api/thing/thing.spec.js",
+		"/D/Jobs/desafio-egenius/server/api/thing/thing.socket.js",
+		"/D/Jobs/desafio-egenius/server/api/thing/thing.model.js",
+		"/D/Jobs/desafio-egenius/client/app/main/main.js",
+		"/D/Jobs/desafio-egenius/client/app/account/account.js",
+		"/D/Jobs/desafio-egenius/server/config/seed.js",
+		"/D/Jobs/desafio-egenius/server/api/room/room.model.js",
+		"/D/Jobs/desafio-egenius/server/config/local.env.sample.js",
+		"/D/Jobs/desafio-egenius/client/bower_components/angular-mocks/ngMock.js",
+		"/D/Jobs/desafio-egenius/server/api/room/index.js",
+		"/D/Jobs/desafio-egenius/server/api/room/room.controller.js",
+		"/D/Jobs/desafio-egenius/server/routes.js",
+		"/D/Jobs/desafio-egenius/client/components/navbar/navbar.controller.js",
+		"/D/Jobs/desafio-egenius/client/.htaccess",
+		"/D/Jobs/desafio-egenius/server/api/room/room.socket.js",
+		"/D/Jobs/desafio-egenius/server/api/room/room.spec.js",
+		"/D/Jobs/desafio-egenius/server/api/chat.spec.js",
+		"/D/Jobs/desafio-egenius/server/api/thing/thing.controller.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\Jobs\\holidaypirates-assessment-test\\fakehotel",
+			"D:\\Jobs\\leeeandroo_fe_001\\project\\src\\client\\app",
+			"D:\\Jobs\\desafio-egenius"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"angular2/router",
+			"w",
+			"top",
+			"Health for Pet",
+			"quarter.from_date",
+			"core_swappers_car_optionals",
+			"optionals",
+			"DateField",
+			"core_swappers_car_optionals",
+			"DIRS",
+			"Answers.objects.using('nps')",
+			"nps",
+			"VALUES",
+			"`id`",
+			"right",
+			"60px",
+			"less",
+			"conso",
+			"console",
+			"sort",
+			"figure",
+			"PokemonService",
+			"cachedIds",
+			"getInfo",
+			"getPo",
+			"treatPokemonInfo",
+			"binaryIndexOf",
+			"mock",
+			"cachedNationalIds",
+			";\n",
+			"item",
+			"\\\"([\\w]*)\\\":",
+			"(\\\"[\\w]*\\\":)",
+			"\"learn_type\"",
+			");\n",
+			"dash",
+			"cachedIds",
+			"ht",
+			"admin",
+			"pokemon-pagination",
+			"vm",
+			"e85b0e",
+			"<div class=\"pokemon-stats-item\">",
+			"out",
+			"width: 0;",
+			"progress-bar",
+			"{item",
+			"item",
+			"background",
+			"be94e6",
+			"94a2b1",
+			"4a90e2",
+			"d8d8d8",
+			"22px",
+			"4a90e2",
+			"params",
+			"widg",
+			"wid",
+			"pokedex",
+			"item.",
+			"{{item",
+			"item",
+			"info",
+			"ragon",
+			"electric",
+			"top",
+			"color:",
+			"color",
+			"right",
+			"10px",
+			"sizin",
+			"side",
+			"news",
+			"important",
+			"boot",
+			"boots",
+			"boot",
+			"Romm",
+			"NewRequestController",
+			"4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1:",
+			"$0:",
+			"$3:",
+			"$1:",
+			"$2",
+			"Room",
+			"RommController"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fakehotel/src/client/app/fakehotel.component.ts",
+					"settings":
+					{
+						"buffer_size": 1743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1014
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 260.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "fakehotel/src/client/app/fakehotel.component.html",
+					"settings":
+					{
+						"buffer_size": 2038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2003,
+								2003
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "fakehotel/src/client/app/fakehotel.service.ts",
+					"settings":
+					{
+						"buffer_size": 2183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "fakehotel/src/client/app/fakehotel.component.css",
+					"settings":
+					{
+						"buffer_size": 693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "fakehotel/src/client/app/fakehotel-review/fakehotel-review.component.ts",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "fakehotel/src/client/app/fakehotel-review/fakehotel-review.component.html",
+					"settings":
+					{
+						"buffer_size": 424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "fakehotel/src/client/app/fakehotel-review/fakehotel-review.component.css",
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "fakehotel/src/client/app/fakehotel.ts",
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "fakehotel/src/client/app/fakehotel.component.spec.ts",
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "fakehotel/src/client/app/fakehotel.service.spec.ts",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mock",
+				"client\\bower_components\\angular-mocks\\ngMock.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 390.0,
+	"status_bar_visible": true
+}
